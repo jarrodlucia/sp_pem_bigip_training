@@ -82,9 +82,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'F5 CSP Big Data Training'
-copyright = u'2017, F5 Networks, Inc.'
-author = u'https://github.com/jarrodlucia/bigip_elk_server/'
+project = u'F5 CSP PEM Training'
+copyright = u'2018, F5 Networks, Inc.'
+author = u'https://github.com/jarrodlucia/sp_pem_bigip_training/'
 
 classname = project
 cleanname = re.sub('\W+','',project)
@@ -209,7 +209,7 @@ if on_rtd:
     templates_path = ['_templates']
 
 extlinks = {
-    'raw_github_url':( ("https://raw.githubusercontent.com/jarrodlucia/bigip_elk_server/%s%%s" % git_branch_name), None)
+    'raw_github_url':( ("https://raw.githubusercontent.com/jarrodlucia/sp_pem_bigip_training/%s%%s" % git_branch_name), None)
 }
 
 # def setup(app):
@@ -328,7 +328,7 @@ html_show_copyright = True
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'F5CSPBigDataTraining'
+htmlhelp_basename = 'F5CSPPEMTraining'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -411,7 +411,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'F5CSPBigDataTraining', u'F5 CSP Big Data Training',
+    (master_doc, 'F5CSPPEMTraining', u'F5 CSP PEM Training',
      [author], 1)
 ]
 
@@ -426,8 +426,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'F5CSPBigDataTraining', u'F5 CSP Big Data Training',
-     author, 'F5CSPBigDataTraining', 'F5 CSP Big Data Training',
+    (master_doc, 'F5CSPPEMTraining', u'F5 CSP PEM Training',
+     author, 'F5CSPPEMTraining', 'F5 CSP PEM Training',
      'Miscellaneous'),
 ]
 
@@ -531,6 +531,3 @@ epub_exclude_files = ['search.html']
 # If false, no index is generated.
 #
 # epub_use_index = True
-
-
-

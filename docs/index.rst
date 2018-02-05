@@ -1,4 +1,4 @@
-F5 SP AVR + Big Data Training - Index
+F5 SP PEM Training - Index
 =====================================
 
 .. toctree::
