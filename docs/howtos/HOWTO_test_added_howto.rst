@@ -3,10 +3,10 @@ HOWTO - how to do stuff
 
 Twill put extra stuff into here
 
-Task 1 – Update unknown index fields
+Task 1 – PEM DB Keys
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-At times new fields may appear in the index field based on software version or addiitonal logging from irules. It will be requried to update the index to make these fields usable.
+insert useful PEM DB keys stuff here (ignore pictures below / place holder)
 
 |howto1|
 
@@ -37,12 +37,18 @@ Update by clicking on the refresh button
 
 
 
-Task 2 - Manual Index Changes 
+Task 2 - tmctl classification stats
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Index changes in json can be done manually if importing from another system.
+show class stats
 
-#. Create a new search or visualisation
-#. Export the new search json
-#. Open the json and copy the index id
-#. Open the json to be imported and paste the updated index id
+#. tmsh
+#. list classification
+
+Task 2 - tmctl url stats
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+show url stats
+
+#. tmsh
+#. list url stats

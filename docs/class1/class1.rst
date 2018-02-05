@@ -1,27 +1,32 @@
-Class 1: BIG-IP AVR (BIG-IP Goodness)
-======================================
+Class 1: Overview of Policy Enforcement Manager
+===============================================
 
 This class covers the following topics:
 
+The first module will be instructor led.
+
 - Module 1
 
-  - REST API Basics
+  - PCEF / TDF
+
+  - Use cases for PEM
+    - Mobile / Fixed / University
+
+  - Successful Deployments
+  
 
 - Module 2
-      
-  - F5 BIG-IP AVR
-        
-  - Configuring AVR
-        
-  - Navigating AVR
-        
-  - Modify AVR Reports
 
-Expected time to complete: **30 mins**
+  - What is PEM
+
+  - Supported Platforms
+
+  - Sizing Considerations
+
+Expected time to complete: **?? mins**
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
    module*/module*
-
