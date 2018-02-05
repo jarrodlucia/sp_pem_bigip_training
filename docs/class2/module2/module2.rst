@@ -1,13 +1,16 @@
-Module 2: Kibana and Visualisation
-==================================
+Module 2: Verify Basic PEM
+==========================
 
-Coolness of Kibana interface
+Module 2
+- Verify PEM setup
+  - DB downloads
+  - Log files to check
 
-- Navigation
-- Searching
-- Creating Searches
-- Creating Visualisations
-- Creating Dashboards
+- Pass PEM Traffic
+  - Verify traffic paths
+  - PEM traffic Stats
+    - Data Plane
+    - Control Plane
 
 .. toctree::
    :maxdepth: 1

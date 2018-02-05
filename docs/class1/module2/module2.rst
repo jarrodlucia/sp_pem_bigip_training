@@ -3,8 +3,10 @@ Module 2: What is PEM
 
 - What is PEM
 	- Concepts
+		- SP DAG
 	- Structure
 	- DB's
+	- Policy
 
 - Supported Platforms
 
