@@ -5,7 +5,7 @@
 .. |labname| replace:: Lab\ |labdot|
 .. |labnameund| replace:: Lab\ |labund|
 
-Lab |labmodule|\.\ |labnum|\: Network Setup
----------------------------------------------------
+Lab |labmodule|\.\ |labnum|\: Advanced PEM Policy
+-------------------------------------------------
 
-network setup and SP DAG
+PEM policy with multiple rules and precedence

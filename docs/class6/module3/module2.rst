@@ -1,16 +1,8 @@
-Module 2: Verify Basic PEM
-==========================
+Module 3: Updating Traffic Classification
+=========================================
 
-Module 2
-- Verify PEM setup
-  - DB downloads
-  - Log files to check
-
-- Pass PEM Traffic
-  - Verify traffic paths
-  - PEM traffic Stats
-    - Data Plane
-    - Control Plane
+Module 3
+- Updating signature files
 
 .. toctree::
    :maxdepth: 1

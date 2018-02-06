@@ -1,28 +1,13 @@
-Class 2: Basic PEM
-==================
+Class 5: Provisioning Subscribers
+=================================
 
 This class covers the following topics:
 
 Module 1
-- Initial PEM setup
-  - Provision + AVR
-  - Network setup
-  - Data Plane Wizard
-    - PEM Policy
-  - Control Plane Wizard
-  - Global PEM Policy
-  - Unknown Subscriber Policy
+- Static Subscribers
 
 Module 2
-- Verify PEM setup
-  - DB downloads
-  - Log files to check
-
-- Pass PEM Traffic
-  - Verify traffic paths
-  - PEM traffic Stats
-    - Data Plane
-    - Control Plane
+- Dynamic Subscribers
 
 
 Expected time to complete: **?? hours**

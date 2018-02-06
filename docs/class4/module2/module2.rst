@@ -1,15 +1,8 @@
-Module 1: Basic PEM Setup
-=========================
+Module 2: DHSCP Subscriber Discovery
+====================================
 
-Module 1
-- Initial PEM setup
-  - Provision + AVR
-  - Network setup
-  - Data Plane Wizard
-    - PEM Policy
-  - Control Plane Wizard
-  - Global PEM Policy
-  - Unknown Subscriber Policy
+Module 2
+- DHCP Subscriber discovery
 
 
 .. toctree::

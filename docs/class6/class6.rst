@@ -1,28 +1,18 @@
-Class 2: Basic PEM
+Class 6: Traffic classification
 ==================
 
 This class covers the following topics:
 
 Module 1
-- Initial PEM setup
-  - Provision + AVR
-  - Network setup
-  - Data Plane Wizard
-    - PEM Policy
-  - Control Plane Wizard
-  - Global PEM Policy
-  - Unknown Subscriber Policy
+- Traffic Classificaiton
 
 Module 2
-- Verify PEM setup
-  - DB downloads
-  - Log files to check
+- Custom Classificication
+  - LTM profiles
+  - irules
 
-- Pass PEM Traffic
-  - Verify traffic paths
-  - PEM traffic Stats
-    - Data Plane
-    - Control Plane
+Module 3
+- updating signature files
 
 
 Expected time to complete: **?? hours**

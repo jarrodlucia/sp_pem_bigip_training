@@ -1,15 +1,8 @@
-Module 1: Basic PEM Setup
-=========================
+Module 1: - Static subscriber provisioning
+==========================================
 
 Module 1
-- Initial PEM setup
-  - Provision + AVR
-  - Network setup
-  - Data Plane Wizard
-    - PEM Policy
-  - Control Plane Wizard
-  - Global PEM Policy
-  - Unknown Subscriber Policy
+- Static subscriber provisioning
 
 
 .. toctree::

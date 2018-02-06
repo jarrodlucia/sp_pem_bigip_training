@@ -1,15 +1,8 @@
-Module 1: Basic PEM Setup
+Module 1: Traffic Classification
 =========================
 
 Module 1
-- Initial PEM setup
-  - Provision + AVR
-  - Network setup
-  - Data Plane Wizard
-    - PEM Policy
-  - Control Plane Wizard
-  - Global PEM Policy
-  - Unknown Subscriber Policy
+- Traffic Classifiction
 
 
 .. toctree::

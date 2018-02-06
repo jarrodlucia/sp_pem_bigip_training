@@ -5,5 +5,7 @@
 .. |labname| replace:: Lab\ |labdot|
 .. |labnameund| replace:: Lab\ |labund|
 
-Lab |labmodule|\.\ |labnum|\: Install and Provision PEM
+Lab |labmodule|\.\ |labnum|\: Create Basic PEM Policy
 -------------------------------------------------------
+
+basic multi rule Policy

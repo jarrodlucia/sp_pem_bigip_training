@@ -5,5 +5,7 @@
 .. |labname| replace:: Lab\ |labdot|
 .. |labnameund| replace:: Lab\ |labund|
 
-Lab |labmodule|\.\ |labnum|\: Data Plane Wizard
+Lab |labmodule|\.\ |labnum|\: PEM iRULES
 -----------------------------------------------
+
+crete and use PEM irule in Policy

@@ -1,15 +1,11 @@
-Module 1: Basic PEM Setup
+Module 1: PEM Policy
 =========================
 
 Module 1
-- Initial PEM setup
-  - Provision + AVR
-  - Network setup
-  - Data Plane Wizard
-    - PEM Policy
-  - Control Plane Wizard
-  - Global PEM Policy
-  - Unknown Subscriber Policy
+- Policy
+  - PEM Policy
+  - PEM Rules
+  - PEM irules
 
 
 .. toctree::

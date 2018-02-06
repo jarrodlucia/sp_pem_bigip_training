@@ -1,28 +1,18 @@
-Class 2: Basic PEM
-==================
+Class 4: Subscriber Discovery
+=============================
 
 This class covers the following topics:
 
+- Subscriber Discovery
+
 Module 1
-- Initial PEM setup
-  - Provision + AVR
-  - Network setup
-  - Data Plane Wizard
-    - PEM Policy
-  - Control Plane Wizard
-  - Global PEM Policy
-  - Unknown Subscriber Policy
+  - RADIUS subscriber Discovery
 
 Module 2
-- Verify PEM setup
-  - DB downloads
-  - Log files to check
+  - DHCP subscriber Discovery
 
-- Pass PEM Traffic
-  - Verify traffic paths
-  - PEM traffic Stats
-    - Data Plane
-    - Control Plane
+Module 3
+  - irules subscriber discovery
 
 
 Expected time to complete: **?? hours**
