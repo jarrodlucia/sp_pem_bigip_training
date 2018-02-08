@@ -1,11 +1,8 @@
-Module 1: PEM Policy
-=========================
+Module 1: RADIUS Subscriber Discovery
+=====================================
 
 Module 1
-- Policy
-  - PEM Policy
-  - PEM Rules
-  - PEM irules
+  - RADIUS subscriber Discovery
 
 
 .. toctree::
